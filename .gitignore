@@ -1,0 +1,17 @@
+/default_dance
+.DS_Store
+__pycache__/
+.env
+.env.*
+!.env.example
+.vscode/
+*.csproj
+*.sln
+*.slnx
+unity/Library/
+unity/Logs/
+unity/Temp/
+unity/obj/
+unity/UserSettings/
+unity/Assets/Jonesy/
+unity/Assets/Animations/
